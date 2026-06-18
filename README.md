@@ -1,14 +1,14 @@
+This is a BBC micro:bit project called "memory game".
 
-> Open this page at [https://lizsalmon.github.io/memory_game/](https://lizsalmon.github.io/memory_game/)
+When you start the microbit will show two arrows.  Then tilt the micro:bit to the direction of the first arrow shown and press A.  This adds that direction to your guess.  Then do the same for the second arrow.  To check your guess press B.  To clear your guess shake the micro:bit and to submit your guess then press A+B at the same time. If you are correct you will get a new arrow added to the pattern and the whole pattern will show again. If you guess incorrectly the game is over and you will see a cross.
 
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
+## To download this code onto your microbit
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/lizsalmon/memory_game** and import
+* click on **Import** then click on **Import URL**
+* paste **https://github.com/lizsalmon/memory_game_microbit** and click import
+* plug in your microbit and click download
+* follow the on-screen instructions
 
 ## Edit this project
 
@@ -16,7 +16,7 @@ To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/lizsalmon/memory_game** and click import
+* paste **https://github.com/lizsalmon/memory_game_microbit** and click import
 
 #### Metadata (used for search, rendering)
 
